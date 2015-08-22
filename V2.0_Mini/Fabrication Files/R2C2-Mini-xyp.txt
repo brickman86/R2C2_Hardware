@@ -1,0 +1,229 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+D16        SMA                  23.325mm        96.1mm      23.325mm        96.1mm      23.325mm        98.1mm  T        270.00 60V@1.5A       
+R105       RESC1608M              32.9mm      75.075mm        32.9mm      75.075mm        32.9mm      74.125mm  T         90.00 10K            
+R94        RESC1608M             58.85mm        76.4mm       58.85mm        76.4mm        57.9mm        76.4mm  T          0.00 10K            
+R92        RESC1608M            27.925mm      70.225mm      27.925mm      70.225mm      26.975mm      70.225mm  T        360.00 100K           
+R82        RESC1608M            54.725mm      69.825mm      54.725mm      69.825mm      53.775mm      69.825mm  T        360.00 100K           
+R81        RESC1608M            27.925mm      74.475mm      27.925mm      74.475mm      26.975mm      74.475mm  T        360.00 274R           
+R80        RESC1608M            54.725mm      74.075mm      54.725mm      74.075mm      53.775mm      74.075mm  T        360.00 274R           
+Q6         SOT323-3AM           54.725mm        71.9mm      54.725mm        71.9mm      55.725mm       71.25mm  T        180.00 N              
+Q5         SOT323-3AM           27.975mm        72.3mm      27.975mm        72.3mm      28.975mm       71.65mm  T        180.00 N              
+U10        SOT223-4M              64.9mm        66.8mm        64.9mm        66.8mm        67.2mm       69.75mm  T        270.00 LDO            
+U6         SOIC127P600-8M         76.3mm      79.365mm     76.2999mm      79.365mm       73.85mm       81.27mm  T        360.00 IC L5970D      
+R102       RESC1608M              77.2mm        74.3mm        77.2mm        74.3mm        77.2mm       75.25mm  T        270.00 2k2 1%         
+R101       RESC1608M              79.9mm        84.4mm        79.9mm        84.4mm        79.9mm       83.45mm  T         90.00 6k8 1%         
+L13        INDP6X6                75.1mm        85.8mm        75.1mm        85.8mm        73.1mm        85.8mm  T        360.00 33uH 1.5Adc    
+D19        SOD323                 63.8mm        72.7mm        63.8mm        72.7mm      62.625mm        72.7mm  T        360.00 1A@30V         
+D12        SMB                  69.575mm     85.0001mm      69.575mm          85mm      69.575mm     87.0001mm  T        270.00 25V@2A         
+C67        CAPC1608M             74.15mm       75.35mm       74.15mm       75.35mm       75.05mm       75.35mm  T        180.00 220pF          
+C63        CAPC3216M             81.45mm       87.45mm       81.45mm       87.45mm          83mm       87.45mm  T        180.00 100uF          
+C61        CAPC1608M              71.3mm      74.925mm        71.3mm      74.925mm        71.3mm      74.025mm  T         90.00 22nF           
+R95        CAPC1608M              74.1mm        73.1mm        74.1mm        73.1mm          75mm        73.1mm  T        180.00 4K7            
+C31        CAPAE63X63MM         27.255mm        10.1mm      27.255mm        10.1mm      27.255mm        12.6mm  T        270.00 100uF 35V      
+C27        CAPAE63X63MM           49.8mm        10.1mm        49.8mm        10.1mm        49.8mm        12.6mm  T        270.00 100uF 35V      
+C12        CAPAE63X63MM         72.245mm        10.1mm      72.245mm        10.1mm      72.245mm        12.6mm  T        270.00 100uF 35V      
+C11        CAPAE63X63MM           4.74mm      14.008mm        4.74mm      14.008mm        4.74mm      16.508mm  T        270.00 100uF 35V      
+C37        CAPC1608M              42.4mm        73.5mm        42.4mm        73.5mm        42.4mm        72.6mm  T         90.00 100nF          
+C39        CAPC1608M              42.4mm        68.8mm        42.4mm        68.8mm        42.4mm        67.9mm  T         90.00 100nF          
+C48        CAPC1608M              44.4mm        61.5mm        44.4mm        61.5mm        43.5mm        61.5mm  T        360.00 100nF          
+C53        CAPC1608M              30.1mm        65.2mm        30.1mm        65.2mm        29.2mm        65.2mm  T        360.00 1nF            
+C55        CAPC1608M              29.7mm        52.2mm        29.7mm        52.2mm        28.8mm        52.2mm  T        360.00 22pF           
+C56        CAPC1608M              29.7mm        44.3mm        29.7mm        44.3mm        30.6mm        44.3mm  T        180.00 22pF           
+R29        RESC1608M             41.33mm      28.358mm       41.33mm     28.3579mm       42.28mm      28.358mm  T        180.00 100K           
+C73        CAPC1608M            84.625mm      52.125mm      84.625mm      52.125mm      84.625mm      53.025mm  T        270.00 10nF           
+C72        CAPC1608M              84.7mm      65.975mm        84.7mm      65.975mm        84.7mm      66.875mm  T        270.00 10nF           
+C71        CAPC1608M                84mm        79.9mm          84mm        79.9mm        84.9mm        79.9mm  T        180.00 10nF           
+C57        TANT_NICHICON_B     75.7024mm     46.3476mm     75.7024mm     46.3476mm     77.2024mm     46.3476mm  T        180.00 47uF 6.3V      
+C70        CAPC1608M               6.6mm        54.3mm         6.6mm        54.3mm         5.7mm        54.3mm  T        360.00 100nF          
+C42        CAPC1608M           13.7142mm        47.7mm     13.7142mm        47.7mm     13.7142mm        48.6mm  T        270.00 22pF           
+C68        CAPC1608M           13.7142mm          44mm     13.7142mm          44mm     13.7142mm        43.1mm  T         90.00 22pF           
+R33        RESC1608M              91.2mm        32.7mm        91.2mm        32.7mm       90.25mm        32.7mm  T        360.00 10K            
+R11        RESC1608M              91.2mm          31mm        91.2mm          31mm       92.15mm          31mm  T        180.00 100R           
+Q13        SOT323-3AM             91.4mm        28.9mm        91.4mm        28.9mm        90.4mm       29.55mm  T        360.00 N              
+J24        MOLEX_22-29-2021        96.8mm        19.7mm        96.8mm        19.7mm        96.8mm       18.43mm  T         90.00 Con 2          
+D20        SOD323                 97.1mm        23.7mm        97.1mm        23.7mm      95.925mm        23.7mm  T        360.00 1A@30V         
+C41        CAPC3216M              92.4mm        19.2mm        92.4mm        19.2mm        92.4mm       20.75mm  T        270.00 10uF 35V       
+J21        MOLEX_22-29-2021        96.8mm        12.7mm        96.8mm        12.7mm        96.8mm       11.43mm  T         90.00 Con 2          
+J20        HDR1X15                79.9mm       57.04mm        79.9mm       39.26mm        79.9mm       39.26mm  T         90.00 Con 15         
+J18        HDR1X15                16.4mm       57.04mm        16.4mm       39.26mm        16.4mm       39.26mm  T         90.00 Con 15         
+C62        CAPC1608M              92.7mm        12.8mm        92.7mm        12.8mm        92.7mm        13.7mm  T        270.00 100nF          
+C40        CAPC2012M              40.4mm        68.8mm        40.4mm        68.8mm        40.4mm       67.85mm  T         90.00 10uF 6.3V      
+C18        CAPC1608M            25.655mm        24.5mm      25.655mm        24.5mm      26.555mm        24.5mm  T        180.00 100nF          
+R85        RESC1608M            70.475mm      52.725mm      70.475mm      52.725mm      70.475mm     53.6749mm  T        270.00 1K5            
+R16        RESC1608M                 5mm        33.2mm           5mm        33.2mm           5mm       34.15mm  T        270.00 274R           
+R17        RESC1608M           27.4537mm       30.55mm     27.4537mm       30.55mm     27.4537mm        31.5mm  T        270.00 274R           
+R61        RESC1608M           72.4437mm       30.55mm     72.4437mm       30.55mm     72.4437mm        31.5mm  T        270.00 274R           
+R46        RESC1608M           49.9987mm       30.55mm     49.9987mm       30.55mm     49.9987mm        31.5mm  T        270.00 274R           
+R13        RESC1608M              82.6mm        83.2mm        82.6mm        83.2mm        82.6mm       84.15mm  T        270.00 274R           
+R93        RESC1608M               3.4mm        38.9mm         3.4mm        38.9mm        2.45mm        38.9mm  T        360.00 680R           
+R100       RESC1608M             61.85mm      52.075mm       61.85mm      52.075mm        60.9mm      52.075mm  T        360.00 1M             
+R99        RESC1608M             61.85mm      53.775mm       61.85mm      53.775mm        60.9mm      53.775mm  T        360.00 100K           
+J10        3M_2900              91.575mm        41.4mm      91.575mm        41.4mm      94.675mm      43.225mm  T        270.00 uSD            
+C32        CAPC1608M           89.6687mm       25.45mm     89.6687mm       25.45mm     89.6687mm       26.35mm  T        270.00 100nF          
+C30        CAPC1608M           67.2237mm       25.45mm     67.2237mm       25.45mm     67.2237mm       26.35mm  T        270.00 100nF          
+C14        CAPC1608M              44.7mm       25.45mm        44.7mm       25.45mm        44.7mm       26.35mm  T        270.00 100nF          
+C13        CAPC1608M           22.1737mm       25.45mm     22.1737mm       25.45mm     22.1737mm       26.35mm  T        270.00 100nF          
+C29        CAPC1608M            79.845mm      16.925mm      79.845mm      16.925mm      78.945mm      16.925mm  T        360.00 100nF          
+C26        CAPC1608M            63.375mm       16.95mm      63.375mm       16.95mm      64.275mm       16.95mm  T        180.00 100nF          
+C10        CAPC1608M             40.83mm       16.95mm       40.83mm       16.95mm       41.73mm       16.95mm  T        180.00 100nF          
+C8         CAPC1608M             12.35mm      16.925mm       12.35mm      16.925mm       11.45mm      16.925mm  T        360.00 100nF          
+C24        CAPC2012M            76.045mm        25.9mm      76.045mm        25.9mm      75.095mm        25.9mm  T        360.00 10uF 6.3V      
+C23        CAPC1608M            76.045mm     24.0329mm      76.045mm     24.0329mm      75.145mm     24.0329mm  T        360.00 100nF          
+C22        CAPC2012M              53.6mm        25.9mm        53.6mm        25.9mm       52.65mm        25.9mm  T        360.00 10uF 6.3V      
+C21        CAPC1608M              53.6mm     24.0329mm        53.6mm     24.0329mm        52.7mm     24.0329mm  T        360.00 100nF          
+C6         CAPC2012M            31.055mm        25.9mm      31.055mm        25.9mm      30.105mm        25.9mm  T        360.00 10uF 6.3V      
+C5         CAPC1608M            31.055mm     24.0329mm      31.055mm     24.0329mm      30.155mm     24.0329mm  T        360.00 100nF          
+C4         CAPC2012M               7.9mm        28.1mm         7.9mm        28.1mm         7.9mm       29.05mm  T        270.00 10uF 6.3V      
+C3         CAPC1608M              10.7mm        25.1mm        10.7mm        25.1mm        10.7mm          26mm  T        270.00 100nF          
+R52        RESC3216M           80.7199mm        12.3mm       80.72mm        12.3mm     80.7199mm       10.75mm  T         90.00 0R047          
+R51        RESC3216M           84.9199mm        12.3mm       84.92mm        12.3mm     84.9199mm       10.75mm  T         90.00 0R047          
+R50        RESC3216M           58.2749mm        12.3mm      58.275mm        12.3mm     58.2749mm       10.75mm  T         90.00 0R047          
+R49        RESC3216M           62.4749mm        12.3mm      62.475mm        12.3mm     62.4749mm       10.75mm  T         90.00 0R047          
+C1         CAPC1608M           20.5537mm     23.5266mm     20.5537mm     23.5266mm     20.5537mm     24.4266mm  T        270.00 100nF          
+C2         CAPC1608M            43.025mm     23.5266mm      43.025mm     23.5266mm      43.025mm     22.6266mm  T         90.00 100nF          
+C15        CAPC1608M            18.725mm     26.6829mm      18.725mm     26.6829mm      19.625mm     26.6829mm  T        180.00 220nF          
+C16        CAPC1608M             41.23mm        26.7mm       41.23mm        26.7mm       42.13mm        26.7mm  T        180.00 220nF          
+C7         CAPC1608M            18.325mm       16.95mm      18.325mm       16.95mm      17.425mm       16.95mm  T        360.00 100nF          
+C9         CAPC1608M            34.855mm      16.925mm      34.855mm      16.925mm      33.955mm      16.925mm  T        360.00 100nF          
+C34        CAPC1608M             86.22mm     26.6829mm       86.22mm     26.6829mm       87.12mm     26.6829mm  T        180.00 220nF          
+C17        CAPC1608M              3.15mm      26.958mm        3.15mm      26.958mm        2.25mm      26.958mm  T          0.00 100nF          
+C43        CAPC1608M              51.8mm        55.4mm        51.8mm        55.4mm        51.8mm        56.3mm  T        270.00 100nF          
+C44        CAPC1608M              43.9mm        43.2mm        43.9mm        43.2mm          43mm        43.2mm  T        360.00 100nF          
+C46        CAPC1608M             35.25mm        43.7mm       35.25mm        43.7mm       36.15mm        43.7mm  T        180.00 100nF          
+C47        CAPC1608M              51.8mm        48.4mm        51.8mm        48.4mm        51.8mm        47.5mm  T         90.00 100nF          
+C28        CAPC1608M             85.82mm       16.95mm       85.82mm       16.95mm       86.72mm       16.95mm  T        180.00 100nF          
+C50        CAPC1608M              27.5mm        58.7mm        27.5mm        58.7mm        27.5mm        57.8mm  T         90.00 1nF            
+C51        CAPC1608M              25.5mm        58.7mm        25.5mm        58.7mm        25.5mm        57.8mm  T         90.00 10nF           
+C33        CAPC1608M            63.775mm     26.6829mm      63.775mm     26.6829mm      64.675mm     26.6829mm  T        180.00 220nF          
+C54        CAPC1608M              30.1mm        63.3mm        30.1mm        63.3mm        29.2mm        63.3mm  T        360.00 10nF           
+C35        CAPC1608M              48.2mm     24.5329mm        48.2mm     24.5329mm        47.3mm     24.5329mm  T          0.00 100nF          
+C36        CAPC1608M            70.645mm     24.5329mm      70.645mm     24.5329mm      69.745mm     24.5329mm  T        360.00 100nF          
+C59        CAPC1608M              14.2mm        74.4mm        14.2mm        74.4mm        14.2mm        73.5mm  T         90.00 100nF          
+C60        CAPC1608M              9.85mm        96.7mm        9.85mm        96.7mm        9.85mm        97.6mm  T        270.00 100nF          
+D1         LEDM_3216X12M          84.7mm        83.3mm        84.7mm        83.3mm        84.7mm      81.675mm  T         90.00 Green          
+D2         LEDM_3216X12M           7.1mm          33mm         7.1mm          33mm         7.1mm      31.375mm  T         90.00 Red            
+D3         LEDM_3216X12M       29.4537mm       30.25mm     29.4537mm       30.25mm     29.4537mm      28.625mm  T         90.00 Red            
+D4         LEDM_3216X12M        84.727mm       70.25mm      84.727mm       70.25mm      84.727mm      68.625mm  T         90.00 Green          
+D5         LEDM_3216X12M       51.9987mm       30.25mm     51.9987mm       30.25mm     51.9987mm      28.625mm  T         90.00 Red            
+D6         LEDM_3216X12M       74.4437mm       30.25mm     74.4437mm       30.25mm     74.4437mm      28.625mm  T         90.00 Red            
+D7         LEDM_3216X12M        84.627mm        56.4mm      84.627mm        56.4mm      84.627mm      54.775mm  T         90.00 Green          
+D8         LEDM_3216X12M        54.025mm       76.05mm      54.025mm       76.05mm       55.65mm       76.05mm  T        180.00 Red            
+D9         LEDM_3216X12M         27.25mm      76.425mm       27.25mm      76.425mm      28.875mm      76.425mm  T        180.00 Red            
+J1         TE_SCREW_1X4         15.345mm       3.275mm      15.345mm       3.275mm      11.535mm       3.275mm  T        360.00 Con 4          
+J2         TE_SCREW_1X4          37.85mm       3.275mm       37.85mm       3.275mm       34.04mm       3.275mm  T        360.00 Con 4          
+J4         TE_SCREW_1X4         60.395mm       3.275mm      60.395mm       3.275mm      56.585mm       3.275mm  T        360.00 Con 4          
+J5         TE_SCREW_1X4         82.875mm       3.275mm      82.875mm       3.275mm      79.065mm       3.275mm  T        360.00 Con 4          
+J6         MOLEX_95022-2667      92.055mm       69.92mm      92.055mm       69.92mm       87.61mm      66.745mm  T         90.00 RJ11           
+J7         TE_SCREW_282841-4      35.225mm        95.5mm      35.225mm        95.5mm      42.845mm        95.5mm  T        180.00 Con 4          
+J8         TE_SCREW_282841-4     59.4699mm        95.5mm     59.4699mm        95.5mm     67.0899mm        95.5mm  T        180.00 Con 4          
+J11        USB_47589-001        3.6142mm        45.5mm      2.1142mm        45.5mm      4.8142mm        46.8mm  T        270.00 Con 4 USB      
+L1         INDC1608M              45.2mm        74.4mm        45.2mm        74.4mm        44.3mm        74.4mm  T        360.00 470R@100Mhz    
+L2         INDC1608M              45.1mm        69.7mm        45.1mm        69.7mm        44.2mm        69.7mm  T        360.00 470R@100Mhz    
+L3         INDC1608M              45.2mm        72.6mm        45.2mm        72.6mm        44.3mm        72.6mm  T        360.00 470R@100Mhz    
+L4         INDC1608M              45.1mm        67.9mm        45.1mm        67.9mm        44.2mm        67.9mm  T        360.00 470R@100Mhz    
+L5         INDC1608M              26.4mm      61.275mm        26.4mm      61.275mm        27.3mm      61.275mm  T        180.00 470R@100Mhz    
+L6         INDC1608M            26.455mm        56.1mm      26.455mm        56.1mm      27.355mm        56.1mm  T        180.00 470R@100Mhz    
+L7         INDC1608M              32.7mm       64.28mm        32.7mm       64.28mm        32.7mm       65.18mm  T        270.00 470R@100Mhz    
+L8         INDC1608M              27.5mm       64.28mm        27.5mm       64.28mm        27.5mm       65.18mm  T        270.00 470R@100Mhz    
+LS1        TDK_PS1240             66.2mm        41.1mm        66.2mm        41.1mm        66.2mm        43.6mm  T        270.00 Buzzer         
+J22        HDR2X10                5.32mm       73.45mm        6.59mm       62.02mm        6.59mm       62.02mm  T         90.00 2x10x2.54mm    
+P1         TRIMMER_14             3.43mm        22.4mm         4.7mm        22.4mm         4.7mm       24.94mm  T        270.00 10K            
+P2         TRIMMER_14            25.88mm        19.4mm       27.15mm        19.4mm       27.15mm       21.94mm  T        270.00 10K            
+P3         TRIMMER_14            48.43mm        19.4mm        49.7mm        19.4mm        49.7mm       21.94mm  T        270.00 10K            
+P4         TRIMMER_14            70.88mm        19.4mm       72.15mm        19.4mm       72.15mm       21.94mm  T        270.00 10K            
+Q1         SOT323-3AM              2.8mm        33.4mm         2.8mm        33.4mm        2.15mm        32.4mm  T         90.00 N              
+Q2         SOT323-3AM          25.2537mm       30.75mm     25.2537mm       30.75mm     24.6037mm       29.75mm  T         90.00 N              
+Q3         SOT323-3AM          47.7987mm       30.75mm     47.7987mm       30.75mm     47.1487mm       29.75mm  T         90.00 N              
+Q4         SOT323-3AM          70.2437mm       30.75mm     70.2437mm       30.75mm     69.5937mm       29.75mm  T         90.00 N              
+Q7         SOT23-3M            12.8142mm      40.125mm     12.8142mm      40.125mm     11.8642mm      39.125mm  T         90.00 P              
+Q8         SOT323-3AM            65.75mm      53.075mm       65.75mm      53.075mm       64.75mm      53.725mm  T        360.00 N              
+R2         RESC1608M              14.6mm     29.3579mm        14.6mm     29.3579mm        14.6mm     28.4079mm  T         90.00 10K            
+R3         RESC1608M                13mm     29.3329mm          13mm     29.3329mm          13mm     28.3829mm  T         90.00 10K            
+R6         RESC1608M              9.75mm        29.3mm        9.75mm        29.3mm        9.75mm       28.35mm  T         90.00 10K            
+R7         RESC1608M            38.705mm     29.3579mm      38.705mm     29.3579mm      38.705mm      28.408mm  T         90.00 10K            
+R8         RESC1608M              37.1mm     29.3579mm        37.1mm     29.3579mm        37.1mm     28.4079mm  T         90.00 10K            
+R9         RESC1608M            35.505mm      29.333mm      35.505mm      29.333mm      35.505mm      28.383mm  T         90.00 10K            
+R12        RESC1608M            32.255mm     29.3079mm      32.255mm     29.3079mm      32.255mm     28.3579mm  T         90.00 10K            
+R18        RESC1608M               3.2mm        28.6mm         3.2mm        28.6mm        4.15mm        28.6mm  T        180.00 39K            
+R19        RESC1608M           25.6537mm       26.15mm     25.6537mm       26.15mm     26.6037mm       26.15mm  T        180.00 39K            
+R28        RESC1608M            18.825mm     28.3579mm      18.825mm     28.3579mm      19.775mm     28.3579mm  T        180.00 100K           
+R20        RESC3216M           17.4249mm     12.2999mm      17.425mm        12.3mm     17.4249mm       10.75mm  T         90.00 0R047          
+R21        RESC3216M           13.2249mm     12.2999mm      13.225mm        12.3mm     13.2249mm       10.75mm  T         90.00 0R047          
+R22        RESC3216M           39.9299mm     12.2999mm       39.93mm        12.3mm     39.9299mm       10.75mm  T         90.00 0R047          
+R23        RESC3216M           35.7299mm     12.2999mm       35.73mm        12.3mm     35.7299mm       10.75mm  T         90.00 0R047          
+R26        RESC1608M             11.45mm     29.4329mm       11.45mm     29.4329mm       11.45mm     30.3829mm  T        270.00 10K            
+R27        RESC1608M            33.955mm     29.4329mm      33.955mm     29.4329mm      33.955mm     30.3829mm  T        270.00 10K            
+R24        RESC1608M               3.3mm        30.6mm         3.3mm        30.6mm        2.35mm        30.6mm  T        360.00 100K           
+R25        RESC1608M           25.6537mm       27.95mm     25.6537mm       27.95mm     24.7037mm       27.95mm  T        360.00 100K           
+R35        RESC1608M              54.8mm     29.3079mm        54.8mm     29.3079mm        54.8mm     28.3579mm  T         90.00 10K            
+R36        RESC1608M            83.695mm     29.3579mm      83.695mm     29.3579mm      83.695mm     28.4079mm  T         90.00 10K            
+R37        RESC1608M            82.095mm     29.3579mm      82.095mm     29.3579mm      82.095mm     28.4079mm  T         90.00 10K            
+R38        RESC1608M            80.495mm     29.3329mm      80.495mm     29.3329mm      80.495mm     28.3829mm  T         90.00 10K            
+R41        RESC1608M            77.245mm     29.3079mm      77.245mm     29.3079mm      77.245mm     28.3579mm  T         90.00 10K            
+R47        RESC1608M           48.1987mm       26.15mm     48.1987mm       26.15mm     49.1487mm       26.15mm  T        180.00 39K            
+R48        RESC1608M           70.6437mm       26.15mm     70.6437mm       26.15mm     71.5937mm       26.15mm  T        180.00 39K            
+R56        RESC1608M            63.875mm     28.3579mm      63.875mm     28.3579mm      64.825mm     28.3579mm  T        180.00 100K           
+R58        RESC1608M             86.32mm     28.3579mm       86.32mm     28.3579mm       87.27mm     28.3579mm  T        180.00 100K           
+R74        RESC1608M              9.85mm        93.1mm        9.85mm        93.1mm        9.85mm       94.05mm  T        270.00 100K           
+R72        RESC1608M              10.9mm          60mm        10.9mm          60mm        10.9mm       59.05mm  T         90.00 10K            
+R75        RESC1608M              10.9mm        63.6mm        10.9mm        63.6mm        10.9mm       62.65mm  T         90.00 10K            
+R76        RESC1608M           10.2392mm        38.1mm     10.2392mm        38.1mm     10.2392mm       39.05mm  T        270.00 10K            
+R77        RESC1608M              10.9mm        67.2mm        10.9mm        67.2mm        10.9mm       66.25mm  T         90.00 10K            
+R83        RESC1608M              10.9mm        70.8mm        10.9mm        70.8mm        10.9mm       69.85mm  T         90.00 10K            
+R86        RESC1608M              10.9mm        74.4mm        10.9mm        74.4mm        10.9mm       73.45mm  T         90.00 10K            
+R87        RESC1608M           10.3142mm        42.3mm     10.3142mm        42.3mm     10.3142mm       43.25mm  T        270.00 1K5            
+R89        RESC1608M               6.6mm        52.7mm         6.6mm        52.7mm        5.65mm        52.7mm  T        360.00 10K            
+R90        RESC1608M           11.1142mm        46.7mm     11.1142mm        46.7mm     10.1642mm        46.7mm  T        360.00 33R            
+R91        RESC1608M           11.1142mm      45.025mm     11.1142mm      45.025mm     10.1642mm      45.025mm  T        360.00 33R            
+R55        RESC1608M              56.5mm     29.4329mm        56.5mm     29.4329mm        56.5mm     30.3829mm  T        270.00 10K            
+R57        RESC1608M            78.945mm      29.433mm      78.945mm      29.433mm      78.945mm     30.3829mm  T        270.00 10K            
+R53        RESC1608M           48.1987mm       27.95mm     48.1987mm       27.95mm     47.2487mm       27.95mm  T        360.00 100K           
+R54        RESC1608M           70.6437mm       27.95mm     70.6437mm       27.95mm     69.6937mm       27.95mm  T        360.00 100K           
+R84        RESC1608M             68.75mm      52.675mm       68.75mm      52.675mm       68.75mm      51.725mm  T         90.00 1K5            
+S1         SW_FSM6JSMA            15.1mm        82.2mm        15.1mm        82.2mm       12.85mm       77.65mm  T         90.00 SW-PB          
+S2         SW_FSM6JSMA            15.1mm        93.9mm        15.1mm        93.9mm       17.35mm       98.45mm  T        270.00 SW-PB          
+U5         TSQFP50P1400X1400X160-80M       42.45mm     52.4249mm       42.45mm      52.425mm      35.825mm      57.175mm  T        360.00 IC LPC175x     
+C38        CAPC2012M              40.4mm        73.5mm        40.4mm        73.5mm        40.4mm       72.55mm  T         90.00 10uF 6.3V      
+C45        CAPC1608M              39.6mm        61.5mm        39.6mm        61.5mm        40.5mm        61.5mm  T        180.00 100nF          
+R59        RESC1608M              38.5mm        73.5mm        38.5mm        73.5mm        38.5mm       74.45mm  T        270.00 10K            
+R64        RESC1608M                84mm        78.3mm          84mm        78.3mm       84.95mm        78.3mm  T        180.00 10K            
+R44        RESC1608M            36.025mm        64.3mm      36.025mm        64.3mm      36.025mm       65.25mm  T        270.00 100R           
+R103       RESC1608M              18.5mm        74.4mm        18.5mm        74.4mm        18.5mm       75.35mm  T        270.00 100K           
+R42        RESC1608M              85.1mm        74.5mm        85.1mm        74.5mm        85.1mm       73.55mm  T         90.00 274R           
+R96        RESC1608M            34.425mm        64.3mm      34.425mm        64.3mm      34.425mm       65.25mm  T        270.00 100R           
+R97        RESC1608M              83.5mm        74.5mm        83.5mm        74.5mm        83.5mm       73.55mm  T         90.00 10K            
+R60        RESC1608M              38.5mm        68.8mm        38.5mm        68.8mm        38.5mm       69.75mm  T        270.00 274R           
+R32        RESC1608M             58.05mm     29.3329mm       58.05mm     29.3329mm       58.05mm     28.3829mm  T         90.00 10K            
+R31        RESC1608M             59.65mm     29.3579mm       59.65mm     29.3579mm       59.65mm     28.4079mm  T         90.00 10K            
+R30        RESC1608M             61.25mm     29.3579mm       61.25mm     29.3579mm       61.25mm     28.4079mm  T         90.00 10K            
+R1         RESC1608M              16.2mm     29.3579mm        16.2mm     29.3579mm        16.2mm     28.4079mm  T         90.00 10K            
+J9         MOLEX_95022-2667      92.055mm       55.92mm      92.055mm       55.92mm       87.61mm      52.745mm  T         90.00 RJ11           
+J3         MOLEX_95022-2667      92.055mm       83.82mm      92.055mm       83.82mm       87.61mm      80.645mm  T         90.00 RJ11           
+D15        SMA                  47.375mm      96.025mm      47.375mm      96.025mm      47.375mm      98.025mm  T        270.00 60V@1.5A       
+D10        LEDM_3216X12M           3.4mm        36.9mm         3.4mm        36.9mm       5.025mm        36.9mm  T        180.00 Blue           
+C20        CAPC1608M           88.0487mm     23.5266mm     88.0487mm     23.5266mm     88.0487mm     22.6266mm  T         90.00 100nF          
+C25        CAPC1608M              57.4mm      16.925mm        57.4mm      16.925mm        56.5mm      16.925mm  T        360.00 100nF          
+R115       RESC1608M             52.15mm        45.3mm       52.15mm        45.3mm        53.1mm        45.3mm  T        180.00 10K            
+R15        RESC1608M           12.8892mm      37.125mm     12.8892mm      37.125mm     11.9392mm      37.125mm  T        360.00 1M             
+R45        RESC1608M              83.6mm        60.6mm        83.6mm        60.6mm        83.6mm       59.65mm  T         90.00 274R           
+R104       RESC1608M              85.3mm        60.7mm        85.3mm        60.7mm        85.3mm       59.75mm  T         90.00 10K            
+C19        CAPC1608M           65.6037mm     23.5266mm     65.6037mm     23.5266mm     65.6037mm     24.4266mm  T        270.00 100nF          
+X2         TXC_7B_12MHZ           29.7mm     48.2186mm        29.7mm     48.2186mm        30.8mm     46.3686mm  T         90.00 12MHz          
+J12        TE_SCREW_282841-4     80.5251mm        95.5mm     80.5251mm        95.5mm     88.1451mm        95.5mm  T        180.00 Con 4          
+D13        LEDM_3216X12M         59.55mm      64.475mm       59.55mm      64.475mm       59.55mm       62.85mm  T         90.00 Orange         
+R98        RESC1608M             57.45mm       65.25mm       57.45mm       65.25mm       57.45mm        66.2mm  T        270.00 680R           
+R4         RESC1608M              76.5mm        43.8mm        76.5mm        43.8mm       75.55mm        43.8mm  T        360.00 1K5            
+Q14        SUPERSOP8_CSD17301          35mm     83.2975mm          35mm          85mm          35mm          85mm  T        270.00 N              
+Q15        SUPERSOP8_CSD17301        61.4mm     81.8975mm        61.4mm        83.6mm        61.4mm        83.6mm  T        270.00 N              
+R10        RESC1608M            35.675mm      76.025mm      35.675mm      76.025mm      34.725mm      76.025mm  T        360.00 1k             
+R14        RESC1608M              37.9mm        79.9mm        37.9mm        79.9mm       38.85mm        79.9mm  T        180.00 33K            
+R88        RESC1608M              62.4mm        76.4mm        62.4mm        76.4mm       61.45mm        76.4mm  T        360.00 1k             
+R5         RESC1608M              64.3mm      78.425mm        64.3mm      78.425mm       65.25mm      78.425mm  T        180.00 33K            
+C49        CAPC3216M             69.55mm      77.875mm       69.55mm      77.875mm        71.1mm      77.875mm  T        180.00 100uF          
+U1         QFN50P500X500X100-28M       15.35mm      21.925mm       15.35mm      21.925mm      17.875mm      20.425mm  T        180.00 A4988          
+U2         QFN50P500X500X100-28M       37.85mm      21.925mm       37.85mm      21.925mm      40.375mm      20.425mm  T        180.00 A4988          
+U3         QFN50P500X500X100-28M        60.4mm      21.925mm        60.4mm      21.925mm      62.925mm      20.425mm  T        180.00 A4988          
+U4         QFN50P500X500X100-28M       82.85mm      21.925mm       82.85mm      21.925mm      85.375mm      20.425mm  T        180.00 A4988          
+C58        CAPAE6666X54M        72.175mm      66.465mm      72.175mm       66.45mm      72.175mm      64.125mm  T         90.00 100uF 10V      
+
